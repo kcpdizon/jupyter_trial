@@ -11,7 +11,7 @@ This project documents the present-day cultural landscape of Davao City's Chinat
 <div style="position: relative; width: 100%; height: 450px; margin: 20px 0; border-radius: 8px; overflow: hidden;">
     <div id="map" style="width: 100%; height: 100%;"></div>
     <button id="fly" style="position: absolute; top: 15px; left: 15px; z-index: 10; padding: 10px 16px; background: #ee8a65; color: white; border: none; border-radius: 4px; font-weight: bold; cursor: pointer;">
-        Fly to Manila
+        Fly to Davao
     </button>
 </div>
 
