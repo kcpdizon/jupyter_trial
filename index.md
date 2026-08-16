@@ -28,7 +28,7 @@ This project documents the present-day cultural landscape of Davao City's Chinat
 
     document.getElementById('fly').addEventListener('click', () => {
         map.flyTo({
-            center: [7.065629, 125.597816], // Target: Davao
+            center: [125.597816, 7.065629], // Target: Davao
             zoom: 13,
             essential: true
         });
