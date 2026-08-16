@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 023dc1da-c825-419c-bce2-e476ab44fc16
+  title: An example Jupyter Book
+  description: A collection of files that build up a book
+  keywords:
+    - jupyter-book
+    - yes
+  authors: []
+  github: kcpdizon/jupyter_trial
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
