@@ -11,7 +11,7 @@ This section examines the visual elements introduced through the Davao City Chin
 
 Davao City's Chinatown has four archways serving as its entry points: the Unity Archway 「融合門」, the Peace Archway 「和平門」 , the Friendship Archway 「友誼門」, and the Prosperity Archway 「繁榮門 . These structures mark the boundaries of the district while also serving as prominent visual symbols of Chinatown. 
 
-<div style="text-align: center; margin: 25px 0;"> 
+<div style="text-align: center; margin: 25px 0;">
 <iframe 
   style="width: 70%; height: 350px; border: 0;" 
   allowfullscreen 
