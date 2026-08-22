@@ -16,7 +16,7 @@ Davao City's Chinatown has four archways serving as its entry points: the Unity 
   style="width: 70%; height: 350px; border: 0;" 
   allowfullscreen 
   allow="geolocation" 
-  src="https://umap.openstreetmap.fr/en/map/chinatown_arches_1447266?scaleControl=false&miniMapControl=true&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#16/7.075468/125.616560">
+  src="https://umap.openstreetmap.fr/en/map/chinatown_arches_1447266?scaleControl=false&miniMapControl=true&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#14/7.075468/125.616560">
 </iframe>
 </div>
 
