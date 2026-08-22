@@ -1,4 +1,4 @@
-## Virtual Chinatown Heritage Walking Tour
+
 
 According to Gracie Plata, Tourism Relations Specialist II of the City Tourism Operations Office (CTOO), the introduction of Davao's four new tourism circuits are to highlight the city's multicultural roots. Among the four new circuits, two are centered around Davao's historical migrant communities: the Japanese and the Chinese. 
 
