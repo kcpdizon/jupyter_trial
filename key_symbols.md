@@ -31,11 +31,6 @@ Davao City's Chinatown has four archways serving as its entry points: the Unity 
 Completed on January 31, 2009, this was the second of four archways planned in Chinatown. The archway is characterized by its red, blue, green, and gold color scheme. Text visible on the arch are the Chinese characters for unity 「融合」 and 'Chinatown', written in a stylized font. The multi-tiered roof features several Chinese motifs: the carp, the dragon, and the burning pearl. The colorful plant-like pattern that runs across the middle of the arch bear visual similarities to decorative patterns found in Mindanao. Whether intentional or not, the representation of both cultures lives up to the ideals of unity the archway symbolize. 
 
 
-<style>
-table.photo-collage-table tr:hover {
-    background-color: transparent !important;
-}
-</style>
 
 <table class="photo-collage-table" style="width: 100%; border-collapse: collapse;">
   <tr>
