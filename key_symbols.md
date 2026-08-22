@@ -16,7 +16,7 @@ Davao City's Chinatown has four archways serving as its entry points: the Unity 
   style="width: 70%; height: 350px; border: 0;" 
   allowfullscreen 
   allow="geolocation" 
-  src="https://umap.openstreetmap.fr/en/map/chinatown_arches_1447266?scaleControl=false&miniMapControl=true&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#14/7.075468/125.616560">
+  src="https://umap.openstreetmap.fr/en/map/chinatown_arches_1447266?scaleControl=false&miniMapControl=true&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#15/7.075468/125.616560">
 </iframe>
 </div>
 
@@ -32,16 +32,15 @@ Completed on January 31, 2009, this was the second of four archways planned in C
 
 
 <div align="center">
-    <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-        <img src="assets/arch_unity_carp.jpg" alt="carp motif" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
-        <img src="assets/arch_unity_center.jpg" alt="center pattern" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
-        <img src="assets/arch_unity_dragons.jpg" alt="Description 3" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
-    </div>
-<p style="font-size: 70%;">
+  <div style="display: flex; gap: 10px; margin-bottom: 10px;">
+    <img src="assets/arch_unity_carp.jpg" alt="carp motif" style="flex: 1; width: 0; height: 180px; object-fit: cover; border-radius: 4px;">
+    <img src="assets/arch_unity_center.jpg" alt="center pattern" style="flex: 1; width: 0; height: 180px; object-fit: cover; border-radius: 4px;">
+    <img src="assets/arch_unity_dragons.jpg" alt="Description 3" style="flex: 1; width: 0; height: 180px; object-fit: cover; border-radius: 4px;">
+  </div>
+  <p style="font-size: 70%;">
     The Unity Arch was recently repainted in February 2026 in preparation for the Chinese New Year celebration
-</p>
+  </p>
 </div>
-
 
 <div align="center">
     <div style="margin-bottom: 10px;">
