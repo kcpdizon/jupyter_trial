@@ -1,6 +1,6 @@
 ### Unity Archway 「融合門」and the Unity Park 「融合園」
 
-```{image} ../assets/arch_unity.jpg 
+```{image} assets/arch_unity.jpg 
 :alt: unity arch
 :class: bg-primary mb-1
 :width: 200px
