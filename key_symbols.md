@@ -33,7 +33,7 @@ Completed on January 31, 2009, this was the second of four archways planned in C
 
 <style>
 table.photo-collage-table tr:hover {
-    background: transparent !important;
+    background-color: transparent !important;
 }
 </style>
 
@@ -55,15 +55,13 @@ table.photo-collage-table tr:hover {
   </tr>
 </table>
 
-<p style="text-align: center; font-size: 0.8em;">
-The Unity Arch was recently repainted in February 2026 in preparation for the Chinese New Year celebration.
-</p>
+<span style="font-size: 55%; text-align: center;">The Unity Arch was recently repainted in February 2026 in preparation for the Chinese New Year celebration</span>
 
 <div align="center">
     <div style="margin-bottom: 10px;">
     <img src="assets/panolong.jpg" alt="panolong" width="40%">
 
-<span style="font-size: 55%;">Nikka Cunom, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons</span>
+<span style="font-size: 55%; text-align: center;">Nikka Cunom, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons</span>
 </div>
 
 *Panalong, the extended house beam of a torogan, found on houses of sultans of the Maranao*
