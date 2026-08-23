@@ -36,7 +36,7 @@ for 3 pictures in-line
 :alt: carp motif
 ```
 
-```{image} assets/arch_unity_center.jpg
+```{image} assets/arch_unity_carp.jpg
 :alt: center pattern
 ```
 
@@ -49,19 +49,19 @@ for 2 top 2 bottom
 :::{grid} 2
 :gutter: 2
 
-```{image} assets/street_signs/ss_bdo.jpg
+```{image} assets/arch_unity_carp.jpg
 :alt: description 1
 ```
 
-```{image} assets/street_signs/ss_dccdc.jpg
+```{image} assets/arch_unity_carp.jpg
 :alt: description 2
 ```
 
-```{image} assets/street_signs/ss_bdo.jpg
+```{image} assets/arch_unity_carp.jpg
 :alt: description 3
 ```
 
-```{image} assets/street_signs/ss_empty.jpg
+```{image} assets/arch_unity_dragons.jpg
 :alt: description 4
 ```
 :::
