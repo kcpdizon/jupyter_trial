@@ -15,6 +15,11 @@ This project documents the present-day cultural landscape of Davao City's Chinat
   </iframe>
 </div>
 
-
 Davao City is located on the island of Mindanao, facing the Davao Gulf. Its geographic position made the region an important site of agricultural production, migration and commercial exchange in the early twentieth century. 
+
+```{image} asset/panolong.jpg
+:alt: panolong
+:width: 500px
+:align: center
+```
 
